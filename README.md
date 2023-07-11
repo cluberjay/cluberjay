@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @cluberjay.
-- 👀 I’m interested in Learn.
-- 🌱 I’m currently learning programming logic and HTML.
-- 💞️ I’m looking to collaborate on my studys. 
-- 📫 How to reach me @clubejay on Instagram.
+- Oi eu sou o Julio.
+- Engenheiro de software.
+- Desenvolvedor de landpage.
+- Receba em seu WhatsApp contatos
+- dos seus clientes.
+- contate-me 14 99679 7612 .
+-  
 
 <!---
 cluberjay/cluberjay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
