@@ -1,8 +1,5 @@
 - Oi eu sou o Julio.
 - Engenheiro de software.
-- Desenvolvedor de landpage.
-- Receba em seu WhatsApp contatos
-- dos seus clientes.
 - contate-me 14 99679 7612 .
 -  
 
